@@ -1,4 +1,4 @@
-# XGBoost on Bonston Housing Dataset
+# XGBoost on Boston Housing Dataset
 
 # Context
 

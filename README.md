@@ -1,4 +1,4 @@
-# XGBoost on a Housing Dataset
+# XGBoost on Bonston Housing Dataset
 
 # Context
 
